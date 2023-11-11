@@ -1,3 +1,6 @@
+
+support laste bentonquest version!
+
 # BetonQuest GUI Plugin
 This Spigot plugin is designed to work with the BetonQuest plugin and the BetonQuest GUI client side Forge mod.
 
