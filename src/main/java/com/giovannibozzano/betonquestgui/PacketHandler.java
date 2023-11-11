@@ -3,12 +3,12 @@ package com.giovannibozzano.betonquestgui;
 import com.google.common.io.ByteArrayDataInput;
 import com.google.common.io.ByteArrayDataOutput;
 import com.google.common.io.ByteStreams;
-import org.betonquest.betonquest.utils.PlayerConverter;
 import org.bukkit.Location;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.messaging.PluginMessageListener;
-import org.betonquest.betonquest.conversation.Conversation;
-import org.betonquest.betonquest.conversation.ConversationIO;
+import pl.betoncraft.betonquest.conversation.Conversation;
+import pl.betoncraft.betonquest.conversation.ConversationIO;
+import pl.betoncraft.betonquest.utils.PlayerConverter;
 
 public class PacketHandler implements PluginMessageListener
 {
